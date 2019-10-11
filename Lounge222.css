@@ -104,7 +104,7 @@ h4 {
 
 
 #avatar {
-  display: none;
+  avatardisplay: block;
 }
 
 #name {
